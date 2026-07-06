@@ -2,8 +2,6 @@
 
 **by Moisés Pacheco**
 
-Ha sido un desafío pero el proceso ha sido muy satisfactorio. =)
-
 --- 
 
 ## Tecnologías
